@@ -1,2 +1,2 @@
-# sample1
-sample application
+Sampleapplication is a branch name
+
